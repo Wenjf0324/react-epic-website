@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-epic-1"]=this["webpackJsonpreact-epic-1"]||[]).push([[7],{270:function(e,t,c){"use strict";c.r(t);c(0);var n=c(3);t.default=function(){return Object(n.jsx)(n.Fragment,{children:Object(n.jsx)("h1",{children:"About"})})}}}]);
+//# sourceMappingURL=7.554dc797.chunk.js.map
